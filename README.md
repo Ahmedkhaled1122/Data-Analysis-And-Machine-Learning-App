@@ -65,23 +65,6 @@ all through a **Streamlit-powered Python web interface**.
 
 ---
 
-## 🧩 Libraries Used
-
-- **NumPy**  
-- **Pandas**  
-- **Scikit-learn**  
-- **Matplotlib**  
-- **Seaborn**  
-- **SciPy**  
-- **Streamlit**  
-- **Streamlit-sortables**  
-- **Missingno**  
-- **Plotly**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
 ## 🧰 Built With
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org)
