@@ -26,13 +26,13 @@ It allows users to upload any dataset, clean it, analyze it, visualize insights,
 
 ## 💻 About the Project
 
-في البداية كنت ناوي أعمل مشروع تحليل بيانات عادي — شوية تحليل، Dashboard على Excel أو Power BI وخلاص.  
-لكن قلت: **ليه أكرر نفس الفكرة؟ فين الإبداع؟**  
-فقررت أعمل حاجة مختلفة فعلًا 💡  
+At first, I was planning to create a regular data analysis project — some analysis, a dashboard with Excel or Power BI, and that’s it.  
+But then I thought: **why repeat what everyone else is doing? Where’s the creativity?**  
+So, I decided to build something truly different 💡  
 
-المشروع ده مش مجرد Dashboard جاهزة،  
-ده **نظام متكامل** يسمح لأي شخص يرفع أي Dataset يحبها ويبدأ يشتغل عليها من أول مرحلة الـ Data Cleaning لحد بناء موديل Machine Learning،  
-وكل ده من خلال **واجهة تفاعلية مبنية بـ Python**.
+This project is not just a static dashboard.  
+It’s a **complete interactive system** that allows anyone to upload any dataset they want and work on it from **data cleaning to machine learning modeling**,  
+all through a **Streamlit-powered Python web interface**.
 
 ---
 
