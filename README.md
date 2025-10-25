@@ -1,7 +1,7 @@
 <!-- To Bring back the link to the top--> 
 <a name="readme-top"></a>
 
-# 🧠 Data Analysis & Machine Learning Dashboard
+# 🧠 Data Analysis & Machine Learning Project
 
 <br />
 <div align="center">
