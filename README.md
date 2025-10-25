@@ -98,7 +98,7 @@ Click the link below to open the project directly:
 👉 **[Launch the App](https://data-analysis-and-machine-learning.streamlit.app/)**
 
 You can:
-- Upload your own dataset (CSV, Excel, etc.).  
+- Upload your own dataset (CSV, Excel).  
 - Perform data cleaning operations.  
 - Analyze data with Pivot Tables and charts.  
 - Run preprocessing and ML models interactively.  
