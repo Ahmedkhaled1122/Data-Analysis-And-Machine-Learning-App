@@ -19,7 +19,7 @@ It allows users to upload any dataset, clean it, analyze it, visualize insights,
 - [About The Project](#about-the-project-)
 - [Project Workflow](#project-workflow-)
 - [Built With](#built-with-️)
-- [How to Run](#how-to-run-)
+- [How to Use](#how-to-use-)
 - [Contact](#contact-)
 
 ---
@@ -73,19 +73,49 @@ all through a **Streamlit-powered Python web interface**.
 
 ---
 
-## ⚙️ How to Run
+## 🌐 How to Use
 
-If you’d like to test or use this app locally, follow these steps:
+No installation needed — the app is live and ready to use!  
+Click the link below to open the project directly:
 
-```bash
-# Clone the repository
-git clone https://github.com/username/Data-Analysis-ML-Dashboard.git
+👉 **[Launch the App](https://data-analysis-and-machine-learning.streamlit.app/)**
 
-# Navigate to project directory
-cd Data-Analysis-ML-Dashboard
+You can:
+- Upload your own dataset (CSV, Excel, etc.).  
+- Perform data cleaning operations.  
+- Analyze data with Pivot Tables and charts.  
+- Run preprocessing and ML models interactively.  
 
-# Install required libraries
-pip install -r requirements.txt
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Run the app
-streamlit run app.py
+---
+
+## 💡 What Makes It Unique
+
+> Unlike traditional dashboards in Excel or Power BI,  
+> this project combines **Data Cleaning, Analysis, and Machine Learning** together in one environment —  
+> no need to switch tools.  
+> It’s a complete journey from raw data to ML insights, all through an interactive web interface.
+
+---
+
+## 📸 Demo
+
+> Coming soon... *(Add screenshots or GIFs of the app here)*  
+
+---
+
+## 👨‍💻 Author
+
+**Ahmed Khaled**  
+Data Analyst | Machine Learning Engineer  
+
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.ghaith979@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedkhaled369/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ahmedkhaled369)
+
+---
+
+### ⭐ If you liked this project, don’t forget to give it a star on GitHub!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
