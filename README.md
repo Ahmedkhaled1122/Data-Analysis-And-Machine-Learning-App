@@ -5,7 +5,7 @@
 
 <br />
 <div align="center">
-  <img src="https://github.com/yourusername/your-repo-name/blob/main/8189d8d7-0246-40aa-96f5-8d965c4a5ca3.png?raw=true" alt="Dashboard Preview" width="100%" />
+  <img src="https://ibb.co/6cFVsjZ1?raw=true" alt="Dashboard Preview" width="100%" />
 </div>
 
 ###  All-in-One Data Analysis & Machine Learning Web App | Powered by Python & Streamlit
