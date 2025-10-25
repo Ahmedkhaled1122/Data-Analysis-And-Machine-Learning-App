@@ -1,9 +1,16 @@
 <!-- To Bring back the link to the top--> 
-<a name="readme-top" align="center"></a>
+<a name="readme-top"></a>
 
-# 🧠 Data Analysis & Machine Learning Dashboard
+<div align="center">
+
+# Data Analysis & Machine Learning Project
 
 <br />
+
+### All-in-One Data Analysis & Machine Learning Web App  
+### Powered by Python & Streamlit  
+
+</div>
 <div align="center">
   <img width="1757" height="835" alt="Dashboard" src="https://github.com/user-attachments/assets/01f795b9-21af-41c8-90c1-7aa7be41ebd4" />
 </div>
