@@ -18,7 +18,7 @@
 ###  All-in-One Data Analysis & Machine Learning Web App | Powered by Python & Streamlit
 
 This project combines **Data Analysis, Visualization, and Machine Learning** in one interactive web application built with Streamlit.  
-It allows users to upload any dataset, clean it, analyze it, visualize insights, and even build ML models — all in one place!
+It allows users to upload any dataset, clean it, analyze it, visualize insights, and even build ML models - all in one place!
 
 ---
 
