@@ -35,7 +35,7 @@ It allows users to upload any dataset, clean it, analyze it, visualize insights,
 
 ## 💻 About the Project
 
-At first, I was planning to create a regular data analysis project — some analysis, a dashboard with Excel or Power BI, and that’s it.  
+At first, I was planning to create a regular data analysis project - some analysis, a dashboard with Excel or Power BI, and that’s it.  
 But then I thought: **why repeat what everyone else is doing? Where’s the creativity?**  
 So, I decided to build something truly different 💡  
 
