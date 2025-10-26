@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Data Analysis & Machine Learning Project
+# Data Analysis & Machine Learning App
 
 <br />
 
